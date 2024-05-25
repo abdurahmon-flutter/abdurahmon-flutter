@@ -24,7 +24,7 @@
   <a href="mailto:abdurahmonqahramon478@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_bl  ank">
+  <a href="https://instagram.com/_qahramononov1ch_" target="_bl  ank">
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://abdurahmon-flutter.github.io" target="_blank">

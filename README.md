@@ -12,9 +12,9 @@
  
  🔭 I’m currently working at **HOME**
  
- 🌱 I’m currently learning **Python, C++, Java**
+ 🌱 I’ve been learning a lot about developing start-ups and dealing with more technical problems**
 
-💬 Ask me about **Firebase, Dart, Firebase... or anything [here](https://github.com/abdurahmon-flutter/abdurahmon-flutter/issues)**
+💬 Ask me about **Firebase, Dart, Firebase, Python, React Web... or anything [here](https://github.com/abdurahmon-flutter/abdurahmon-flutter/issues)**
 
 ⚡ Fun fact **My goal is to do my town more modern with technelogies**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,html,css,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=flutter,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=dart,html,css,vscode,github,figma,git,r,python,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,react,rest" /><br>
 </div>
 
 <br/>

@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,html,css,vscode,github,figma,git,r,python,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,react,rest" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,react,django" /><br>
 </div>
 
 <br/>
